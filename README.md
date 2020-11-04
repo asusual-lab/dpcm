@@ -1,3 +1,3 @@
-# DPCSM - Il decreto che vorrei
+# DPCM - Il decreto che vorrei
 
 ## Come contribuire
