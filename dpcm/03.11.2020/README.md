@@ -67,60 +67,60 @@ Su proposta del Ministro della salute, sentiti i Ministri deli'interno, della di
 
 **Decreta:**
 
-##[Art.1](art1.md)
+## [Art.1](art1.md)
 
 **Misure urgenti di contenimento del contagio sull'intero territorio nazionale**
 
 ---
 
-##[Art.2](art2.md)
+## [Art.2](art2.md)
 **Ulteriori misure di contenimento del contagio su alcune aree del territorio nazionale caratterizzate da uno scenario di elevata gravità e da un livello di rischio alto**
 
 ---
-##[Art.3](art3.md)
+## [Art.3](art3.md)
 **Ulteriori misure di contenimento del contagio su aicune aree del territorio nazionale caratterizzate da uno scenario di massima gravità e da un livello di rischio alto**
 
 ---
-##[Art.4](art4.md)
+## [Art.4](art4.md)
 **Misure di contenimento del contagio per lo svolgimento in sicurezza delle attivita produttive industriali e commerciali**
 
 ---
-##[Art5](art5.md)
+## [Art5](art5.md)
 **Misure di informazione e prevenzione sull'intero territorio nazionale**
 
 ---
-##[Art6](art6.md)
+## [Art6](art6.md)
 **Limitazioni agli spostamenti da e per l'estero**
 
 ---
-##[Art7](art7.md)
+## [Art7](art7.md)
 **Obblighi di dichiarazione in occasione deli’ingresso nel territorio nazionale dall'estero**
 
 ---
-##[Art8](art8.md)
+## [Art8](art8.md)
 **Sorveglianza sanitaria e isolamento fiduciario e obblighi di sottoporsi a test molecolare o
 antigenico a seguito dell'ingresso nel territorio nazionale dall’estero**
 
 ---
-##[Art9](art9.md)
+## [Art9](art9.md)
 **Obblighi dei vettori e degli armatori**
 
 ---
-##[Art10](art10.md)
+## [Art10](art10.md)
 **Disposizioni in materia di navi da crociera e navi di bandiera estera**
 
 ---
-##[Art11](art11.md)
+## [Art11](art11.md)
 **Misure in materia di trasporto pubblico di linea**
 
 ---
-##[Art12](art12.md)
+## [Art12](art12.md)
 **Ulteriori disposizioni specifiche per la disabilità**
 
 ---
-##[Art13](art13.md)
+## [Art13](art13.md)
 **Esecuzione e monitoraggio delie misure**
 
 ---
-##[Art14](art14.md)
+## [Art14](art14.md)
 **Disposizioni finali**
